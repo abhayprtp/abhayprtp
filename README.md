@@ -26,12 +26,8 @@ I am passionate about technology and constantly exploring new areas in the tech 
 
 #### Let's Connect!
 - **LinkedIn**: [Abhay Singh]([https://www.linkedin.com/in/abhay-singh](https://www.linkedin.com/in/abhay-pratap-singh-108804219/))
-- **GitHub**: [github.com/your-github-username](https://github.com/abhayprtp)
+- **Leetcode**: [Abhay Singh]
 
 Feel free to check out my repositories and get in touch!
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
