@@ -25,8 +25,9 @@ I am passionate about technology and constantly exploring new areas in the tech 
 ---
 
 #### Let's Connect!
-- **LinkedIn**: [Abhay Singh]([https://www.linkedin.com/in/abhay-singh](https://www.linkedin.com/in/abhay-pratap-singh-108804219/))
-- **Leetcode**: [Abhay Singh]
+- **LinkedIn**: [Abhay Singh](https://www.linkedin.com/in/abhay-pratap-singh-108804219/)
+- **Leetcode**: [Abhay Singh]()
+- **GFG**: [Abhay Singh]()
 
 Feel free to check out my repositories and get in touch!
 
