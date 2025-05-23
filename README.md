@@ -1,4 +1,4 @@
-# Hi there, I'm Abhay Singh! 👋
+# Hi there 👋
 
 ### 💻 Full-Stack Web Developer | 🧩 Problem Solver | 🔗 Blockchain Enthusiast
 
